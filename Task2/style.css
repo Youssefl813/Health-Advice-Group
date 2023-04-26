@@ -1,0 +1,51 @@
+body{
+    background-color: #f5eec2;
+}
+
+/* Set card images to same size */
+.card-img-top{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carda{
+    width:100%;
+    height: 20vh;
+    object-fit: cover;
+}
+.cardbtn{
+   background-color: #39395f;
+   color: white; 
+}
+
+.cardbtn:hover{
+    background-color: white;
+    color:#39395f;
+}
+.dropdown-item{
+    color: white;
+}
+
+.dropdown-menu{
+    background-color: #416a59;
+}
+
+.modal-content{
+    background-color: #a9c25d;
+}
+
+.form-control{
+    width: 25%;
+}
+
+.carousel{
+    width: 640px;
+    height:360px;
+}
+
+.current-img{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
